@@ -18,6 +18,11 @@ body{
 
 h1 {
     letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+h4 {
+    margin-bottom: 20px;
 }
 
 .poke-container {
@@ -36,6 +41,7 @@ h1 {
     margin: 10px;
     padding: 20px;
     text-align: center;
+    width: 160px;
 }
 
 .pokemon .img-container {
