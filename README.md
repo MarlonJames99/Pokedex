@@ -10,7 +10,7 @@
 This is a simple pokédex where you can find all 151 pokémon from the Kanto region.<br><br>
 It's organized by the official #id and brings the pokémon's photo, name and type. Also the cards are adapted to be shown in different colors depending on the pokémon's type.
 
-### Page link: <a target="_blank">https://pokedex-rosy-zeta.vercel.app/<a> <br>
+### Page link: https://pokedex-rosy-zeta.vercel.app/ <br>
 
 ## Tecnologies:
 <div style="display: inline_block">
